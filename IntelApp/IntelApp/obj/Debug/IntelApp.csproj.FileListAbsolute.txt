@@ -1,0 +1,6 @@
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\bin\Debug\IntelApp.exe.config
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\bin\Debug\IntelApp.exe
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\bin\Debug\IntelApp.pdb
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\obj\Debug\IntelApp.csprojResolveAssemblyReference.cache
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\obj\Debug\IntelApp.exe
+c:\users\bbgames\documents\visual studio 2015\Projects\IntelApp\IntelApp\obj\Debug\IntelApp.pdb
